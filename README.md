@@ -1,4 +1,4 @@
-# UI-UX-Delivery-Tracker-App
+# UI-UX-Design-Delivery-Tracker-App
 
 This repository contains the design files for the **Delivery Tracker App**, which focuses on a real-time order tracking for customers and live status updates of their Packages.
 
